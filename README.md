@@ -4,23 +4,27 @@
 
 # Instalation
 
-git clone https://github.com/username/3asyPr1vs.git
+> git clone https://github.com/username/3asyPr1vs.git
 
-cd 3asyPr1vs
-
-
-Install dependencies:
-
-pip install -r requirements.txt
+> cd 3asyPr1vs
 
 
-Usage
-Run the tool :
-python3 3asyPr1vs.py
+
+Install dependencies
+
+> pip install -r requirements.txt
+
+
+
+
+#Usage
+
+> python3 3asyPr1vs.py
 
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+
 Author
-tg - t.me/root777777
+tg : t.me/root777777
