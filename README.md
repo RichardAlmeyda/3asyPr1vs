@@ -15,12 +15,46 @@ Install dependencies
 
 > pip install -r requirements.txt
 
+Make the script executable
+
+> chmod +x 3asyPr1vs.py
 
 
 
-#Usage
 
-> python3 3asyPr1vs.py
+# Usage
+
+> python3 3asyPr1vs.py or ./3asyPr1vs.py
+
+
+# Features
+Sudo Permissions: Checks for passwordless sudo permissions.
+
+Sensitive File Permissions: Identifies world-writable and weak permissions on critical files like /etc/passwd.
+
+SUID Files: Detects files with the SUID bit set.
+
+PATH Check: Ensures the current directory (.) is not in the PATH.
+
+Cron Jobs: Finds world-writable cron job scripts.
+
+NFS Shares: Detects shares with the no_root_squash option.
+
+Installed Packages: Checks for known vulnerable versions.
+
+Sudo Version: Identifies vulnerable sudo versions.
+
+Insecure Sudoers Entries: Searches for insecure entries in /etc/sudoers.
+
+Password Policies: Checks for weak policies.
+
+Empty Passwords: Identifies users with empty passwords.
+
+Shared Library Injection: Detects potential issues.
+
+Locally Stored Credentials: Scans for files containing sensitive data.
+
+
 
 
 License
