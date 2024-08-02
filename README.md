@@ -66,9 +66,26 @@ Locally Stored Credentials: Scans for files containing sensitive data.
 
 -------------------------------------------------------------------------
 
+Notes
+Always ensure you have the right permissions to perform prvielege escalation activities
+
+
+This README provides a brief overview of the tool, installation instructions, and usage examples.
+
+
+
++----------------------------------------------SUPPORT--------------------------------------------------+
+Author 
+tg : t.me/root777777
+
+
+
+USDT TRC20 : TTttSQ274h6bEAbtS2mbLNQVg3K3HiSU6y
+
+BTC ERC20  : 0x0511da6246446a936f5fb72fb0cce33e9ee1a6b1
+
+
++------------------------------------------LICENSE-------------------------------------------------------+
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
---------------------------------------------------------------------------
-Author 
-tg : t.me/root777777
