@@ -62,5 +62,5 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 --------------------------------------------------------------------------
-Author ram1z
+Author 
 tg : t.me/root777777
