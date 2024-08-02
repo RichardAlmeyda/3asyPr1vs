@@ -1,5 +1,6 @@
 # Introduction
 
+![Screenshot 2024-08-02 160031](https://github.com/user-attachments/assets/3e8bf329-c624-4576-b878-e447862d99e3)
 
 3asyPr1vs is a Python-based privilege escalation tool designed to identify potential vulnerabilities and misconfigurations in Linux systems. It helps in discovering weaknesses that can be leveraged to gain elevated privileges.
 
@@ -55,11 +56,11 @@ Shared Library Injection: Detects potential issues.
 Locally Stored Credentials: Scans for files containing sensitive data.
 
 
-
+-------------------------------------------------------------------------
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-
-Author
+--------------------------------------------------------------------------
+Author ram1z
 tg : t.me/root777777
