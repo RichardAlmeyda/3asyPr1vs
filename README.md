@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/71f57218-e036-43a8-af83-1b8a5a4a476d)# Introduction
+# Introduction
 
 ![Screenshot 2024-08-02 160031](https://github.com/user-attachments/assets/3e8bf329-c624-4576-b878-e447862d99e3)
 
@@ -33,6 +33,8 @@ Make the script executable
 
 > python3 3asyPr1vs.py or ./3asyPr1vs.py
 
+
+![image](https://github.com/user-attachments/assets/71f57218-e036-43a8-af83-1b8a5a4a476d)
 
 # Features
 Sudo Permissions: Checks for passwordless sudo permissions.
