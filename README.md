@@ -6,7 +6,7 @@
 
 # Instalation
 
-> git clone https://github.com/username/3asyPr1vs.git
+> git clone https://github.com/RichardAlmeyda/3asyPr1vs.git
 
 > cd 3asyPr1vs
 
