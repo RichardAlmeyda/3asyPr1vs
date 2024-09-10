@@ -84,7 +84,7 @@ This README provides a brief overview of the tool, installation instructions, an
 
 
 
-Author tg : t.me/root777777
+Author tg : t.me/RichardAlmeyda
 
 
 
