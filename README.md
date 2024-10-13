@@ -1,6 +1,6 @@
 # Introduction
 
-![Screenshot 2024-08-02 160031](https://github.com/user-attachments/assets/3e8bf329-c624-4576-b878-e447862d99e3)
+
 
 3asyPr1vs is a Python-based privilege escalation tool designed to identify potential vulnerabilities and misconfigurations in Linux systems. It helps in discovering weaknesses that can be leveraged to gain elevated privileges.
 
@@ -37,7 +37,7 @@ Make the script executable
 > python3 3asyPr1vs.py or ./3asyPr1vs.py
 
 
-![Screenshot 2024-08-01 233656](https://github.com/user-attachments/assets/bf2f702c-dd1b-4544-85cf-7503f3f0350e)
+
 
 
 
