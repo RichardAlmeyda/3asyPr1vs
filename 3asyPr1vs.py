@@ -16,7 +16,7 @@ def print_banner():
                     .-. :                          
                     `._.'                          
 {Style.RESET_ALL}
-Coded by Ram1z
+Coded by R1chardAlmeyda
 Telegram: t.me/RichardAlmeyda
 """
     print(banner)
